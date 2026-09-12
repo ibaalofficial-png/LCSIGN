@@ -1,8 +1,0 @@
-// !$*UTF8*$!
-{
- archiveVersion = 1;
- objectVersion = 77;
- objects = {
- };
- rootObject = 000000000000000000000000;
-}
