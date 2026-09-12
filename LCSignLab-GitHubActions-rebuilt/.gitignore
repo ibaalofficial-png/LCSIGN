@@ -1,8 +1,0 @@
-DerivedData/
-build/
-*.xcuserstate
-xcuserdata/
-.DS_Store
-Signing/*.p12
-Signing/*.mobileprovision
-Signing/*.provisionprofile
